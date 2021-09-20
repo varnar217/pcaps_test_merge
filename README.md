@@ -5,4 +5,4 @@ build
 
 gcc -g merg.c -o <name_output>
 
-./name_output -o <output.pcap> <list pcaps>
+./name_output -o <output.pcap> list_pcaps
